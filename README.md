@@ -1,0 +1,1 @@
+# Modelling-and-Prediction-of-Stock-Market-Data-with-GARCH-Model
