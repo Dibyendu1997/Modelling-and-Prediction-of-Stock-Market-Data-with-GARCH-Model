@@ -1,8 +1,9 @@
 # Modelling-and-Prediction-of-Stock-Market-Data-with-GARCH-Model
 <h1 align="center">
-  <img src="https://cdn-images-1.medium.com/max/1024/0*Y6j2EdSa6TLHu_bW" width="40%">
+  <img src="https://cran.r-project.org/web/packages/garchmodels/readme/vignettes/logo-garchmodels.png" width="40%">
 </h1>
 
+[![ARMA-GARCH](https://bashtage.github.io/arch/doc/_static/images/color-logo-256.png)](https://github.com/bashtage/arch)
 
 # Introduction
 Time series of returns from financial instruments usually exhibit nonlinearities. There is strong empirical evidence that a large number of time series
