@@ -13,7 +13,9 @@ ticular, we consider heteroskedastic time series models where the conditional va
 In This Project We Use ARMA-GARCH Model for Modeling Four different type of Stock Markets .   
 
 # Data Collection
-We Use NIFTY 50 , NIFTY NEXT 50 , NIFTY MIDCAP ,NIFTY SMALL CAP for this project .We use Data from March 23, 2020 to Sep 24, 2021 and use this data for predecting stock market price for next 20 days. We Collect our data from Yahoo! Finance
-# Method we used
+We Use NIFTY 50 , NIFTY NEXT 50 , NIFTY MIDCAP ,NIFTY SMALL CAP for this project .We use Data from March 23, 2020 to Sep 24, 2021 and use this data for predecting stock market price for next 20 days. We Collect our data from [Yahoo! Finance](https://finance.yahoo.com/quote/%5ENSEI/history/) . 
+# Model NIFTY 50 Data 
+
+
 # Result and Analysis
 
